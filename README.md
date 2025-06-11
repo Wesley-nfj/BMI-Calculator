@@ -42,18 +42,17 @@ BMI = weight (kg) / (height (m))²
 
 1. Save the script to a file, e.g., `bmi_calculator.py`
 2. Open a terminal and run:
-
-```bash
+ ```bash
 python bmi_calculator.py
----
-## 📌 Example Interaction
----
+```
+### 📌 Example Interaction
+
 Do you want to get started? 'yes' or 'no': yes
 Enter your weight in kg: 70
 Enter your height in m: 1.75
 Your Body Mass Index is: 22.86
 You have a normal weight!
----
+
 
 
 
