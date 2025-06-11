@@ -46,14 +46,14 @@ BMI = weight (kg) / (height (m))²
 python bmi_calculator.py
 ```
 
+
 ---
 ## 📌 Example Interaction
 
-Do you want to get started? 'yes' or 'no': yes
-Enter your weight in kg: 70
-Enter your height in m: 1.75
-Your Body Mass Index is: 22.86
-You have a normal weight!
+-Do you want to get started? 'yes' or 'no': yes
+-Enter your weight in kg: 70
+-Enter your height in m: 1.75
+-Your Body Mass Index is: 22.86
+-You have a normal weight!
 
 ---
-
