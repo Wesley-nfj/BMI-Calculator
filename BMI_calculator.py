@@ -6,12 +6,16 @@ def get_values():
     print(f" Your Body Mass Index is : {BMI:.2f}")
     if BMI < 18.5:
         print("You are underweighted")
-    elif BMI > 18.5 and BMI < 24.9:
+        print("Tip: Eat more calories and try to see a doctor")
+    elif 18.5<= BMI <= 24.9:
         print("You have a normal weight!")
-    elif BMI > 25 and BMI < 29.9:
+        print("Tip: Keep up with the good habits and the balanced diet.")
+    elif 24.9 < BMI <= 29.9:
         print("You are Overweighted")
-    elif BMI > 30:
+        print("Tip: Do regular workouts and eat healtier meals.")
+    elif BMI > 29.9:
         print("You are Obese")
+        print("Tip: Consider seeing a doctor and a fitness coach")
 
 print("Body Mass Index Calculator- Lets calculate your BMI")
 
