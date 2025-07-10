@@ -15,6 +15,7 @@ This is a simple Python-based **Body Mass Index (BMI) Calculator** that helps us
   - Normal weight
   - Overweight
   - Obese
+- Give health tips based on above categories.
 - Continuously prompts users until they choose to exit
 
 ---
